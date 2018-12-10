@@ -1,0 +1,28 @@
+var group__Math =
+[
+    [ "sqrt", "group__Math.html#ga82997c88f1824ba6b80c3d50eeb1ea39", null ],
+    [ "rsqrt", "group__Math.html#ga8a1e4c42dcc8925cbbb8fcf6f28a585c", null ],
+    [ "reciprocal", "group__Math.html#gad772afb042c320da117f73d53837f1e8", null ],
+    [ "abs", "group__Math.html#ga8595f9563a460aa89cce8f2bee850a4c", null ],
+    [ "round", "group__Math.html#ga7acb63f664c8cf18126003d509af55c3", null ],
+    [ "log", "group__Math.html#gafb93877e10dc909fbe54120984ac6694", null ],
+    [ "log2", "group__Math.html#gacf7182ddab1fb7882575e5c7b7ec66ca", null ],
+    [ "log10", "group__Math.html#gac540573f513622425bd1c192e10a3d39", null ],
+    [ "exp", "group__Math.html#ga081a5ebea56b063894eb735e55370d9f", null ],
+    [ "min", "group__Math.html#gad8483ecd3e5287a0d2559b8296db3553", null ],
+    [ "max", "group__Math.html#ga07ad0dde983ae93fc48b86b56920f33a", null ],
+    [ "frexp", "group__Math.html#gab860fe38d303e3e7f81d00545bac57e0", null ],
+    [ "ldexp", "group__Math.html#ga4a9baa3bf282c31a2bcb93bf9e37800f", null ],
+    [ "isfinite", "group__Math.html#gaeed68503890a5ae7563e763937d9612c", null ],
+    [ "isnan", "group__Math.html#ga6e9218a7764612c39d9af1f90986553a", null ],
+    [ "fma", "group__Math.html#ga6c60b4774cc9045c6e50534d4ecd4324", null ],
+    [ "sin", "group__Math.html#gafe191df9235e551a9a3b5d85c6736489", null ],
+    [ "cos", "group__Math.html#gabc25a842c21d9bf2bc87ad3816166be4", null ],
+    [ "asin", "group__Math.html#gad0e19cd8165a37abce6ea30021e2dcfd", null ],
+    [ "atan", "group__Math.html#ga651decdd1cb46bd5c64349c78304a344", null ],
+    [ "atan2", "group__Math.html#ga5015b4f593c2454f06e3ec7750af789a", null ],
+    [ "sincos", "group__Math.html#ga3c79ba1e8e377fd77f9e178f3936aa4b", null ],
+    [ "copysign", "group__Math.html#ga57f0f15e3ee99fbd9e1c2065f05f7550", null ],
+    [ "exponent", "group__Math.html#gaaf97ae66205905caad300973ef77b92d", null ],
+    [ "isnegative", "group__Math.html#ga72c4a581aa30b12ba97808d736304c31", null ]
+];
