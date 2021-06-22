@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['abi_0',['abi',['../classVc_1_1Mask.html#abe9aa1f35fa46be781ae9e81d374a72b',1,'Vc::Mask::abi()'],['../classVc_1_1Vector.html#abe9aa1f35fa46be781ae9e81d374a72b',1,'Vc::Vector::abi()']]],
+  ['abs_1',['abs',['../group__SimdArray.html#ga0ad66d5fa732e0d35d7ef96308fde396',1,'Vc']]],
+  ['adapter_2',['Adapter',['../group__Simdize.html#ga134cce726b684fce0ce83883e38f4584',1,'Vc::SimdizeDetail::Adapter']]],
+  ['aligned_3',['Aligned',['../group__Utilities.html#ga9e53bd74b9a47cb8f16bf12018c3670e',1,'Vc']]],
+  ['alignedbase_4',['AlignedBase',['../structVc_1_1AlignedBase.html',1,'Vc']]],
+  ['alignedbase_3c_20v_3a_3amemoryalignment_20_3e_5',['AlignedBase&lt; V::MemoryAlignment &gt;',['../structVc_1_1AlignedBase.html',1,'Vc']]],
+  ['alignoncacheline_6',['AlignOnCacheline',['../group__Utilities.html#ggaebce8b3227fdcca97fba94556a1b2461ae5f918b27baba790e8931d2f1173905f',1,'Vc']]],
+  ['alignonpage_7',['AlignOnPage',['../group__Utilities.html#ggaebce8b3227fdcca97fba94556a1b2461ae4cff9800dfef630b91432a0eda00f4b',1,'Vc']]],
+  ['alignonvector_8',['AlignOnVector',['../group__Utilities.html#ggaebce8b3227fdcca97fba94556a1b2461aea1085049aede31b7bbb8c5a06815446',1,'Vc']]],
+  ['all_5fof_9',['all_of',['../group__Utilities.html#gaccfe8b53188a645a5c78e283defb0d23',1,'Vc::all_of(const Mask &amp;m)'],['../group__Utilities.html#ga6ec7a6f4bff7ae67660a62ab0f3d325e',1,'Vc::all_of(bool b)']]],
+  ['allocator_10',['Allocator',['../classVc_1_1Allocator.html',1,'Vc']]],
+  ['allocator_3c_20vc_3a_3amask_3c_20t_2c_20abi_20_3e_20_3e_11',['Allocator&lt; Vc::Mask&lt; T, Abi &gt; &gt;',['../classVc_1_1Allocator.html',1,'Vc']]],
+  ['allocator_3c_20vc_3a_3asimdarray_3c_20t_2c_20n_2c_20v_2c_20m_20_3e_20_3e_12',['Allocator&lt; Vc::SimdArray&lt; T, N, V, M &gt; &gt;',['../classVc_1_1Allocator.html',1,'Vc']]],
+  ['allocator_3c_20vc_3a_3asimdizedetail_3a_3aadapter_3c_20s_2c_20t_2c_20n_20_3e_20_3e_13',['Allocator&lt; Vc::SimdizeDetail::Adapter&lt; S, T, N &gt; &gt;',['../classVc_1_1Allocator.html',1,'Vc']]],
+  ['allocator_3c_20vc_3a_3asimdmaskarray_3c_20t_2c_20n_2c_20v_2c_20m_20_3e_20_3e_14',['Allocator&lt; Vc::SimdMaskArray&lt; T, N, V, M &gt; &gt;',['../classVc_1_1Allocator.html',1,'Vc']]],
+  ['allocator_3c_20vc_3a_3avector_3c_20t_2c_20abi_20_3e_20_3e_15',['Allocator&lt; Vc::Vector&lt; T, Abi &gt; &gt;',['../classVc_1_1Allocator.html',1,'Vc']]],
+  ['any_5fof_16',['any_of',['../group__Utilities.html#ga0e357178e07b595d2e7879ca2b2c62e0',1,'Vc::any_of(const Mask &amp;m)'],['../group__Utilities.html#gae493dec4ade732c6dbcc8232984736c5',1,'Vc::any_of(bool b)']]],
+  ['apply_17',['apply',['../classVc_1_1SimdArray.html#a7eaa123cf79e5e7fe505fa6d2f42b307',1,'Vc::SimdArray::apply(F &amp;&amp;f) const'],['../classVc_1_1SimdArray.html#ade40a5058bb8e1d1efad3c98f77b98cb',1,'Vc::SimdArray::apply(F &amp;&amp;f, const mask_type &amp;k) const'],['../classVc_1_1Vector.html#a84ab055071e250a799aff117622e17c8',1,'Vc::Vector::apply(F &amp;&amp;f) const'],['../classVc_1_1Vector.html#a32e471c5a08ae8be318a6a483edf45f5',1,'Vc::Vector::apply(F &amp;&amp;f, MaskType mask) const']]],
+  ['array_18',['array',['../structVc_1_1array.html',1,'Vc']]],
+  ['asin_19',['asin',['../group__SimdArray.html#ga2c12844afd924e4039858039bb553ccd',1,'Vc::asin(const SimdArray&lt; T, N, V, M &gt; &amp;x)'],['../group__Math.html#gad0e19cd8165a37abce6ea30021e2dcfd',1,'Vc::asin(const Vector&lt; T, Abi &gt; &amp;x)']]],
+  ['assign_20',['assign',['../namespaceVc.html#ac1331eb8c64a239648b1563a355b309b',1,'Vc']]],
+  ['atan_21',['atan',['../group__SimdArray.html#gaa895e91d4466d215b53c4fbb8d76d6d3',1,'Vc::atan(const SimdArray&lt; T, N, V, M &gt; &amp;x)'],['../group__Math.html#ga651decdd1cb46bd5c64349c78304a344',1,'Vc::atan(const Vector&lt; T, Abi &gt; &amp;x)']]],
+  ['atan2_22',['atan2',['../group__SimdArray.html#ga325bffb257f6e1c82db33ebc13d1b2f7',1,'Vc::atan2(const SimdArray&lt; T, N, V, M &gt; &amp;x, const SimdArray&lt; T, N, V, M &gt; &amp;y)'],['../group__Math.html#ga5015b4f593c2454f06e3ec7750af789a',1,'Vc::atan2(const Vector&lt; T, Abi &gt; &amp;y, const Vector&lt; T, Abi &gt; &amp;x)']]],
+  ['avx2impl_23',['AVX2Impl',['../group__Utilities.html#gga169eae84f24c38906074ff8edde32fd8a0ec1beefc339f966fe6bc79f29157417',1,'Vc']]],
+  ['avximpl_24',['AVXImpl',['../group__Utilities.html#gga169eae84f24c38906074ff8edde32fd8a43a1748f49066bcfb077da5844e5ac19',1,'Vc']]]
+];
