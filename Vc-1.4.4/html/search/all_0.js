@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['abi_0',['abi',['../classVc_1_1Mask.html#abe9aa1f35fa46be781ae9e81d374a72b',1,'Vc::Mask::abi()'],['../classVc_1_1Vector.html#abe9aa1f35fa46be781ae9e81d374a72b',1,'Vc::Vector::abi()']]],
+  ['abs_1',['abs',['../group__SimdArray.html#gaca60c415008bf8fa7584b96d63273bc9',1,'Vc']]],
+  ['adapter_2',['Adapter',['../group__Simdize.html#ga134cce726b684fce0ce83883e38f4584',1,'Vc::SimdizeDetail::Adapter']]],
+  ['aligned_3',['Aligned',['../group__Utilities.html#ga9e53bd74b9a47cb8f16bf12018c3670e',1,'Vc']]],
+  ['alignedbase_4',['AlignedBase',['../structVc_1_1AlignedBase.html',1,'Vc']]],
+  ['alignoncacheline_5',['AlignOnCacheline',['../group__Utilities.html#ggaebce8b3227fdcca97fba94556a1b2461ae5f918b27baba790e8931d2f1173905f',1,'Vc']]],
+  ['alignonpage_6',['AlignOnPage',['../group__Utilities.html#ggaebce8b3227fdcca97fba94556a1b2461ae4cff9800dfef630b91432a0eda00f4b',1,'Vc']]],
+  ['alignonvector_7',['AlignOnVector',['../group__Utilities.html#ggaebce8b3227fdcca97fba94556a1b2461aea1085049aede31b7bbb8c5a06815446',1,'Vc']]],
+  ['all_5fof_8',['all_of',['../group__Utilities.html#ga5c11d2373ee63b998032086ca8eff990',1,'Vc::all_of(bool b)'],['../group__Utilities.html#gaff53f2c94209b49c88ef19d7004d1225',1,'Vc::all_of(const Mask &amp;m)']]],
+  ['allocator_9',['Allocator',['../classVc_1_1Allocator.html',1,'Vc']]],
+  ['allocator_3c_20vc_3a_3amask_3c_20t_2c_20abi_20_3e_20_3e_10',['Allocator&lt; Vc::Mask&lt; T, Abi &gt; &gt;',['../classVc_1_1Allocator.html',1,'Vc']]],
+  ['allocator_3c_20vc_3a_3asimdarray_3c_20t_2c_20n_2c_20v_2c_20m_20_3e_20_3e_11',['Allocator&lt; Vc::SimdArray&lt; T, N, V, M &gt; &gt;',['../classVc_1_1Allocator.html',1,'Vc']]],
+  ['allocator_3c_20vc_3a_3asimdizedetail_3a_3aadapter_3c_20s_2c_20t_2c_20n_20_3e_20_3e_12',['Allocator&lt; Vc::SimdizeDetail::Adapter&lt; S, T, N &gt; &gt;',['../classVc_1_1Allocator.html',1,'Vc']]],
+  ['allocator_3c_20vc_3a_3asimdmaskarray_3c_20t_2c_20n_2c_20v_2c_20m_20_3e_20_3e_13',['Allocator&lt; Vc::SimdMaskArray&lt; T, N, V, M &gt; &gt;',['../classVc_1_1Allocator.html',1,'Vc']]],
+  ['allocator_3c_20vc_3a_3avector_3c_20t_2c_20abi_20_3e_20_3e_14',['Allocator&lt; Vc::Vector&lt; T, Abi &gt; &gt;',['../classVc_1_1Allocator.html',1,'Vc']]],
+  ['any_5fof_15',['any_of',['../group__Utilities.html#ga987ef53cca76351756ac45f24c653365',1,'Vc::any_of(bool b)'],['../group__Utilities.html#ga6c419070cb21f3f9698041332c311dd4',1,'Vc::any_of(const Mask &amp;m)']]],
+  ['apply_16',['apply',['../classVc_1_1Vector.html#a84ab055071e250a799aff117622e17c8',1,'Vc::Vector::apply()'],['../classVc_1_1SimdArray.html#a04d91f416eede94c96f84aee9f214fe4',1,'Vc::SimdArray::apply()'],['../classVc_1_1Vector.html#a32e471c5a08ae8be318a6a483edf45f5',1,'Vc::Vector::apply()'],['../classVc_1_1SimdArray.html#aad715fa7429f6c25916c2b737da15f4f',1,'Vc::SimdArray::apply()']]],
+  ['array_17',['array',['../structVc_1_1array.html',1,'Vc']]],
+  ['asin_18',['asin',['../group__SimdArray.html#ga8d20c72a003514c3dc9bb46a07b77479',1,'Vc::asin(const SimdArray&lt; T, N, V, M &gt; &amp;x)'],['../group__Math.html#ga90b3d243df19919d9abb752fd956be5a',1,'Vc::asin(const Vector&lt; T, Abi &gt; &amp;x)']]],
+  ['assign_19',['assign',['../namespaceVc.html#af2490610651e58a7734cfaef7435152d',1,'Vc']]],
+  ['atan_20',['atan',['../group__SimdArray.html#ga6a4d1542a5f997ce28e470f64d89783b',1,'Vc::atan(const SimdArray&lt; T, N, V, M &gt; &amp;x)'],['../group__Math.html#ga991ff9c7d88834e55576b171bb63cbc0',1,'Vc::atan(const Vector&lt; T, Abi &gt; &amp;x)']]],
+  ['atan2_21',['atan2',['../group__SimdArray.html#ga0ac6d145a987be25120dc4dfbd909a05',1,'Vc::atan2(const SimdArray&lt; T, N, V, M &gt; &amp;x, const SimdArray&lt; T, N, V, M &gt; &amp;y)'],['../group__Math.html#gad3ad5fd6cfc833464d4957dd2a39424a',1,'Vc::atan2(const Vector&lt; T, Abi &gt; &amp;y, const Vector&lt; T, Abi &gt; &amp;x)']]],
+  ['avx2impl_22',['AVX2Impl',['../group__Utilities.html#gga169eae84f24c38906074ff8edde32fd8a0ec1beefc339f966fe6bc79f29157417',1,'Vc']]],
+  ['avximpl_23',['AVXImpl',['../group__Utilities.html#gga169eae84f24c38906074ff8edde32fd8a43a1748f49066bcfb077da5844e5ac19',1,'Vc']]]
+];
